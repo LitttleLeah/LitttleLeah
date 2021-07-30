@@ -15,4 +15,3 @@
 - 🤔 I’m looking for help with everything web dev 
 - 😄 Pronouns: she/ her 
 - ⚡ Fun fact: I eat 🍿 popcorn with a spoon 🥄
-
