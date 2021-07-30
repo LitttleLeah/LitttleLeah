@@ -1,8 +1,10 @@
 ![GitHub Profile2](https://user-images.githubusercontent.com/56384040/127631608-5ec068f4-56a0-4bac-81e5-52494d89f3b0.jpg)
-### Howzit 👋
+## Howzit 👋
 
-##### Socials
-<a href="https://twitter.com/litttleleia"><img src="https://img.shields.io/badge/LitttleLeia-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white"></a>
+#### Connect with me here
+<a href="https://twitter.com/litttleleia"><img src="https://img.shields.io/badge/-Twitter-%231da1f2"></a>
+<a href="https://www.linkedin.com/in/leah-nkambule-884782a1/"><img src="https://img.shields.io/badge/-Linkedin-%230A66C2"></a>
+<a href="https://www.behance.net/litttleleah"><img src="https://img.shields.io/badge/-Behance-%230056ff"></a>
 
 <!--
 **LitttleLeah/LitttleLeah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. 
