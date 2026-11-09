@@ -1,22 +1,27 @@
 ![GitHub Profile2](https://user-images.githubusercontent.com/56384040/127631608-5ec068f4-56a0-4bac-81e5-52494d89f3b0.jpg)
-## Howzit 👋
+## Howzit 👋,
+
+**UX & digital designer · Curious about code**
+
+I'm a South African designer interested in how thoughtful design makes everyday experiences easier to use. I enjoy working through a problem, shaping the user journey and turning ideas into interfaces people can understand.
+
+## What I'm working on
+
+- **User journeys and interface design:** making complex requirements clearer and easier to navigate.
+- **Prototypes and interactions:** exploring how an experience should behave before it reaches development.
+- **Design and code:** building my technical understanding so I can connect design decisions with implementation.
+
+## Here on GitHub
+
+My [repositories](https://github.com/LitttleLeah?tab=repositories) include earlier **HTML, CSS and JavaScript** learning projects and UI experiments. They record my exploration of layouts, interactions and the code behind them.
+
+I like learning by making something, trying it out and improving it.
+
 
 #### Connect with me here
 <a href="https://twitter.com/litttleleia"><img src="https://img.shields.io/badge/-Twitter-%231da1f2"></a>
 <a href="https://www.linkedin.com/in/leah-nkambule-884782a1/"><img src="https://img.shields.io/badge/-Linkedin-%230A66C2"></a>
 <a href="https://www.behance.net/litttleleah"><img src="https://img.shields.io/badge/-Behance-%230056ff"></a>
 
-<!--
-**LitttleLeah/LitttleLeah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. 
+🍿 Fun fact: I eat popcorn with a spoon.
 
-- 🔭 I’m currently working on ... 
-- 👯 I’m looking to collaborate on ...
-- 💬 Ask me about
-- 📫 How to reach me: ...... -->
-- :bowtie: My name is pronounced "lay uh"
-- :speech_balloon: I speak 4 of South Africa's offical languages and currently learning an international language
-- 🖌 I'm a Graphic Designer interested in the language of code
-- 🌱 I’m currently learning Javascript, HTML & CSS through Udemy courses
-- 🤔 I’m looking for help with everything web dev 
-- 😄 Pronouns: she/ her 
-- ⚡ Fun fact: I eat 🍿 popcorn with a spoon 🥄
